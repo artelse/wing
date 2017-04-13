@@ -22,6 +22,10 @@
   text-align: right;
 }
 
+.text-justify {
+  text-align: justify;
+}
+
 .full-screen {
   width: 100%;
   min-height: 100vh;
